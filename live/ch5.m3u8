@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://www.google.com/support/">report</A> your problem and mention this error message and the query that caused it.  <ins>That’s all we know.</ins>
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1645542609/ei/cagUYrLJCJmMir4PvKyAsAY/ip/40.122.171.52/id/wrYF0HX7Kzc.5/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-q4flrnss.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/ih/mm/44/mn/sn-q4flrnss/ms/lva/mv/u/mvi/3/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1645520271/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgKB5atZnWxPJjgFFkZuUyz0doit6gITj0_RvAkpr4iJcCIGQrC_SRuGvGhy3BfIw7jybCPFIuabiVvF7YxfhfvQNd/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgMlRr-_cpNu_z9u4BB4fz15BJgcDO4gZtcWTnAS3ch_kCIBEixT25JIwIy5ZPjt3-e2b4G8v2KSqDBaGaCAPNkduW/playlist/index.m3u8
